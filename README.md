@@ -3,8 +3,8 @@ This tool will generate a virus that can only destroy Windows computer. You can 
 More scripts will be added with time
 
 # Usage
-1. git clone https://github.com/CyberSecurity111222/Virus-Builder/
-2. cd Virus-Builder
-3. ls
-4. pip install -r requirements.txt
-5. python3 Builder.py
+git clone https://github.com/CyberSecurity111222/Virus-Builder/
+cd Virus-Builder
+ls
+pip install -r requirements.txt
+python3 Builder.py
